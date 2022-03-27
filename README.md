@@ -1,4 +1,4 @@
-### Olá, sejam bem-vindos ao meu perfil profissional do GitHub. Me chamo Leonardo Ribeiro e sou desenvolvedor Front-End ### HTML | CSS | JAVASCRIPT 💻 ☕ 🖥  
+### Olá, sejam bem-vindos ao meu perfil profissional do GitHub. Me chamo Leonardo Ribeiro e sou desenvolvedor Front-End ### HTML | CSS | JAVASCRIPT ### 💻 ☕ 🖥  
 
 <div align="center">
   <a href="https://github.com/leo-ribeiro">
