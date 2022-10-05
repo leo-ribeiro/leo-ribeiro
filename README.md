@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> Olá, sejam bem-vindos ao meu perfil profissional do GitHub. Me chamo Leonardo Ribeiro e sou desenvolvedor Java. Minhas principais ferramentas de trabalho são: Java | HTML | CSS | JAVASCRIPT | BOOTSTRAP | Node.js | SQL | GIT </h1>
+<h1> Olá, sejam bem-vindos ao meu perfil profissional do GitHub. Me chamo Leonardo Ribeiro e sou desenvolvedor Java. Minhas principais ferramentas de trabalho são: Java | Node.js | SQL | JAVASCRIPT | HTML | CSS | BOOTSTRAP | GIT </h1>
 
   <a href="https://github.com/leo-ribeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leo-ribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
